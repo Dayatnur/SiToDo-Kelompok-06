@@ -9,3 +9,10 @@ Sitodo adalah platform untuk manajemen daftar tugas (to-do list) yang sederhana 
 
 Akses dari Mana Saja: Karena Sitodo adalah aplikasi berbasis web, pengguna dapat mengakses daftar tugas mereka dari perangkat apa pun dengan koneksi internet.
 Dengan fokus pada kegunaan dan kesederhanaan, Sitodo dirancang untuk membantu pengguna mengelola tugas-tugas mereka dengan efisien, sehingga mereka dapat fokus pada hal-hal yang penting dalam hidup mereka.
+
+## Kelompok-06
+
+### Terdiri dari :
+
+1.Hidayat Nur Hakim (2208107010063) <br>
+2.Nashed Bayazid Ali (2208107010049)
