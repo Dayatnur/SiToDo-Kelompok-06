@@ -27,10 +27,9 @@
         </button>
       </div>
       <div class="hidden lg:flex lg:gap-x-12">
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Describe</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Features</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Marketplace</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Company</a>
+        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">About Us</a>
+        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">FaQ</a>
+        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Our Team</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
         <a href="/login" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>
