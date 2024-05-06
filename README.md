@@ -18,3 +18,24 @@ Dengan fokus pada kegunaan dan kesederhanaan, Sitodo dirancang untuk membantu pe
 
 1. Hidayat Nur Hakim (2208107010063)
 2. Nashed Bayazid Ali (2208107010049)
+
+### Installing
+
+Step menginstal sebagai berikut
+
+Pertama
+
+    npm install -D tailwindcss postcss autoprefixe
+
+Kedua
+
+    cp .env.example .env
+
+Ketiga
+
+    php artisan key:generate
+
+Keempat
+
+    php artisan migrate
+
