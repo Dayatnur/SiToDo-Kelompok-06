@@ -23,19 +23,32 @@ Dengan fokus pada kegunaan dan kesederhanaan, Sitodo dirancang untuk membantu pe
 
 Step menginstal sebagai berikut
 
+
 Pertama
 
-    npm install -D tailwindcss postcss autoprefixe
+    git clone https://github.com/Dayatnur/SiToDo-Kelompok-06.git
 
 Kedua
 
-    cp .env.example .env
+    cd SiToDO-Kelompok-06
 
 Ketiga
 
-    php artisan key:generate
+    npm install -D tailwindcss postcss autoprefixe
 
 Keempat
 
+    cp .env.example .env
+
+Kelima
+
+    php artisan key:generate
+
+Keenam
+
     php artisan migrate
+
+Ketujuh
+
+    php artisan serve
 
