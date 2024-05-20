@@ -52,3 +52,7 @@ Ketujuh
 
     php artisan serve
 
+Kedelapan
+
+    npm run dev
+
