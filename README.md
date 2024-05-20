@@ -32,6 +32,11 @@ Kedua
 
     cd SiToDO-Kelompok-06
 
+Kedua
+
+    npm install
+
+
 Ketiga
 
     npm install -D tailwindcss postcss autoprefixe
@@ -40,6 +45,11 @@ Keempat
 
     cp .env.example .env
 
+
+Kedua
+
+    composer install
+    
 Kelima
 
     php artisan key:generate
